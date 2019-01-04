@@ -1,3 +1,7 @@
+## 0.35.2 - 2019-01-04
+### Fixed
+- Removed ComponentRegistry dist cache [#524](https://github.com/plotly/dash/pull/524)
+
 ## 0.35.1 - 2018-12-27
 ### Fixed
 - Always skip `dynamic` resources from index resources collection. [#518](https://github.com/plotly/dash/pull/518)
